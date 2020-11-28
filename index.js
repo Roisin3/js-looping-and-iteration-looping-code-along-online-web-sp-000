@@ -9,4 +9,3 @@ function writeCards(names) {
 
   return cards;
 }
-
